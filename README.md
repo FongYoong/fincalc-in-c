@@ -1,6 +1,8 @@
 ## Financial calculator written in C
 👉 [Download (Windows)](https://github.com/FongYoong/fincalc-in-c/releases/download/1.0/fincalc.exe)
 
+📖 [Read the report](https://github.com/FongYoong/fincalc-in-c/blob/master/FHCT1022%20-%20Full%20Report.pdf)
+
 ***
 ## Building from source
 * Only compatible with **Windows**.
